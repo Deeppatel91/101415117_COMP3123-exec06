@@ -12,7 +12,7 @@ mongoose.Promise = global.Promise;
 
 
 const DB_URL =
-  "mongodb+srv://Deep:Deep9195@cluster0.ztcjj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://Deeter0.ztcjj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 mongoose
   .connect(DB_URL, {
